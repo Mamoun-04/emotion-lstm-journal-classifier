@@ -20,8 +20,6 @@ It predicts one of the following emotions:
 | File | Description |
 |------|-------------|
 | `EmotionsClassification.ipynb` | Full notebook: training, evaluation, sample predictions |
-| `mood_lstm_model/` *(optional)* | Saved model (TensorFlow format) |
-| `tokenizer.pkl` *(optional)* | Tokenizer used for preprocessing |
 | `README.md` | This file |
 
 ---
